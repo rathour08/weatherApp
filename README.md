@@ -2,7 +2,7 @@
 
 Welcome to the Weather App! This application provides real-time weather information for your current location and allows you to search for weather details in any city worldwide. With a sleek and modern design, the Weather App is both functional and visually appealing.
 
-![Weather App Screenshot]()
+![Weather App Screenshot](./image.png)
 
 ## Features
 
