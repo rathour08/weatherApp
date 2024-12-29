@@ -48,5 +48,15 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+
+Thank you for visiting the Weather App repository! We hope you find it useful and enjoyable to use.
+
+
 
 
