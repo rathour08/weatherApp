@@ -31,6 +31,6 @@ To run this project locally, follow these steps:
 2. **Navigate to the project directory**:
    ```bash
    cd weather-app
-3. **Open index.html in your browser to view the app.
+3. **Open index.html in your browser to view the app**
 
 
