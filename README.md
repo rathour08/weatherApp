@@ -33,4 +33,20 @@ To run this project locally, follow these steps:
    cd weather-app
 3. **Open index.html in your browser to view the app**
 
+## Usage
+
+- **Grant Location Access**: Click on "Grant Access" to allow the app to fetch weather data for your current location.
+- **Search for a City**: Use the search bar to find weather information for any city.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
 
